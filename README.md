@@ -4,8 +4,8 @@ Some scripts and demonstrations for quantum computing research.
 
 ## Prerequisites
 
-- Python 3.10.12-64
-- Compiler like [GCC](https://www.youtube.com/watch?v=GxFiUEO_3zM)
+- Python [3.10.12-64](https://www.python.org/downloads/release/python-3122/)
+- Compiler [GCC](https://www.youtube.com/watch?v=GxFiUEO_3zM)
 
 ## Installation
 
